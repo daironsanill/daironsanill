@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @daironsanill
-- 👀 I’m interested in learning software development 
-- 🌱 I’m currently learning software engineering @multimedia University of Kenya 
-- 💞️ I’m looking to collaborate on the software development projects 
+- 👋 Hi, I’m Bornface Oduor
+- 👀 I’m interested in embedded systems development and IoT
+- 🌱 I’m currently learning Electrical and Telecoms engineering at Multimedia University of Kenya 
+- 💞️ I’m looking to collaborate on the IoT and embedded systems projects 
 - 📫 How to reach me. You can reach me via email - oduorbornface09@gmail.com or contact me through my WhatsApp number +254 701627054
 
 <!---
